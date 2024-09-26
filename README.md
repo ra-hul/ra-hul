@@ -10,7 +10,7 @@
         alt="ra-hul" />
 </p>
 
-- 🔭 I'm currently working on ** Manual and automation testing**
+- 🔭 I'm currently working on **Manual and automation testing**
 
 - 📫 All of my projects are available at [https://github.com/ra-hul?tab=repositories](https://github.com/ra-hul?tab=repositories)
 
