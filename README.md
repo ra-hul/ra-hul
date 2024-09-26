@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
+- 📫 How to reach me **rahulpaul.shanto.official**
+
 <h3 align="center">
     Connect with me:
 </h3>
