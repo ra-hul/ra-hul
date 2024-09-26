@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
-- 📫 How to reach me **rahulpaul.shanto.official**
+- 📫 How to reach me **rahulpaul.shanto.official@gmail.com**
 
 <h3 align="center">
     Connect with me:
@@ -32,7 +32,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="ra-hul" height="30" width="40" />
     </a>
-    <a href="www.linkedin.com/in/rahulpaulaiub" target="blank">
+    <a href="https://linkedin.com/in/rahulpaulaiub" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="ra-hul" height="30" width="40" />
