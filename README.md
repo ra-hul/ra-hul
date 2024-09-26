@@ -10,11 +10,11 @@
         alt="ra-hul" />
 </p>
 
-- 🔭 I'm currently working on **Full stack development, manual and automation testing**
+- 🔭 I'm currently working on ** Manual and automation testing**
 
 - 📫 All of my projects are available at [https://github.com/ra-hul?tab=repositories](https://github.com/ra-hul?tab=repositories)
 
-- 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
 <h3 align="center">
     Connect with me:
